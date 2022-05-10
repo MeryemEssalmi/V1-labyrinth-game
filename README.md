@@ -1,1 +1,1 @@
-# TEST
+# V1 labyrinth game
